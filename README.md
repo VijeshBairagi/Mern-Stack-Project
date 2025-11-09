@@ -9,13 +9,14 @@ Is repository mein **MERN Stack** (MongoDB, Express.js, React.js, Node.js) par b
 | #️⃣ | Project Name | Description | Tech Stack |
 |---|-------------|-------------|------------|
 
+
 ---
 
 ## ⚙️ Kisi Bhi Project Ko Kaise Run Karein
 
 ### Prerequisites
 Aapke system mein ye installed hone chahiye:
-- **Node.js** 
+- **Node.js** (v14 ya usse upar)
 - **MongoDB** (local ya MongoDB Atlas)
 - **npm** ya **yarn**
 
@@ -23,7 +24,7 @@ Aapke system mein ye installed hone chahiye:
 
 ```bash
 # 1. Repository clone karein
-git clone https://github.com/VijeshBairagi/Mern-Stack-Project.git
+git clone https://github.com/your-username/mern-projects.git
 
 # 2. Kisi bhi project folder mein jaayein
 cd E-Commerce-App   # Example
@@ -69,6 +70,7 @@ npm run dev
 - 🔒 **bcrypt** - Password hashing
 - ✅ **Mongoose** - ODM for MongoDB
 
+
 ---
 
 ## 🎯 Learning Goals
@@ -80,13 +82,13 @@ Har project MERN stack ke different aspects cover karta hai:
 ✅ **JWT-based authentication** aur authorization  
 ✅ **React hooks** aur modern patterns  
 ✅ **Redux** se global state management  
-✅ **Real-time features** with Socket.io  
 ✅ **File upload** aur cloud storage  
 ✅ **Payment gateway** integration  
 
 ---
 
 ## 🔐 Environment Variables
+
 Har project ke `backend` folder mein `.env` file banayein:
 
 ```env
@@ -103,16 +105,19 @@ PORT=5000
 
 # Frontend URL (for CORS)
 CLIENT_URL=http://localhost:5173
-
+```
 
 ---
 
 ## 🧑‍💻 Author
-**Vijesh Bairagi**  
-GitHub: [@your-username](https://github.com/vijeshbairagi)  
+
+**Vijju Bairagi**  
+GitHub: [@VijeshBairagi](https://github.com/vijeshbairagi)  
+
 ---
 
 ## 📜 License
+
 Is repository ko **MIT License** ke under rakha gaya hai — explore karein, seekhein aur modify karein!
 
 ---
