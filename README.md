@@ -24,7 +24,7 @@ Aapke system mein ye installed hone chahiye:
 
 ```bash
 # 1. Repository clone karein
-git clone https://github.com/your-username/mern-projects.git
+git clone https://github.com/your-username/Mern-Stack-Project.git
 
 # 2. Kisi bhi project folder mein jaayein
 cd E-Commerce-App   # Example
